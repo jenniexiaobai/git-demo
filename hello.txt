@@ -1,6 +1,4 @@
-hello git 22222
-hello git
-hello git 33333
+hello git 111111
 hello git
 hello git
 hello git
@@ -14,5 +12,4 @@ hello git
 hello git
 hello git
 hello git
-hello git madter test
 hello git
